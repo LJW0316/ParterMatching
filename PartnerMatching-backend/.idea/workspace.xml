@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="219fc8cf-1663-48f5-96b6-31b2c57e589a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/friend/PartnerMatchingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/friend/PartnerMatchingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/partnermatching/backend/PartnerMatchingBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/partnermatching/backend/PartnerMatchingBackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dY7WzuNX6OqO7tpTUktd9Ri9L0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AlgorithmUtilsTest.testCompareTags.executor": "Run",
+    "JUnit.InsertUserTest.doConcurrencyInsertUsers.executor": "Run",
+    "JUnit.InsertUserTest.doInsertUsers.executor": "Run",
+    "JUnit.RedisTest.testInsert.executor": "Debug",
+    "JUnit.RedissonTest.test.executor": "Run",
+    "JUnit.UserServiceTest.searchUserByTags.executor": "Run",
+    "JUnit.UserServiceTest.userRegister.executor": "Debug",
+    "Maven.PartnerMatching-backend [clean].executor": "Run",
+    "Maven.friend-backend [clean,package].executor": "Run",
+    "Maven.friend-backend [clean].executor": "Run",
+    "Maven.friend-backend [install].executor": "Run",
+    "Maven.friend-backend [package].executor": "Run",
+    "Remote JVM Debug.Unnamed.executor": "Debug",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.FriendApplication 8081.executor": "Run",
+    "Spring Boot.FriendApplication.executor": "Run",
+    "database.data.extractors.current.export.id": "Excel (xlsx)",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programming/Java/Project/Friend/friend-backend/target",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\Java\Project\Friend\friend-backend\src\main\resources\mapper" />
+      <recent name="D:\Programming\Java\Project\Friend\friend-backend\src\main\resources" />
+      <recent name="D:\Programming\Java\Project\Friend\friend-backend\src\main\java\com\friend" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.friend" />
+      <recent name="com.friend.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.friend.model.request" />
+      <recent name="com.friend.service" />
+      <recent name="com.friend.service.impl" />
+      <recent name="com.friend.mapper" />
+      <recent name="com.friend.model.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PartnerMatchingApplication">
+    <configuration name="AlgorithmUtilsTest.testCompareTags" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.friend.service.AlgorithmUtilsTest" />
+      <option name="METHOD_NAME" value="testCompareTags" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertUserTest.doConcurrencyInsertUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.friend.service.InsertUserTest" />
+      <option name="METHOD_NAME" value="doConcurrencyInsertUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertUserTest.doInsertUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.friend.service.InsertUserTest" />
+      <option name="METHOD_NAME" value="doInsertUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.friend.service.RedisTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.friend.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.friend.service" />
+      <option name="MAIN_CLASS_NAME" value="com.friend.service.RedissonTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="PartnerMatching-backend" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="47.103.85.74" />
+      <option name="PORT" value="9631" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9631" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="FriendApplication 8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8081" />
+        </param>
+      </additionalParameters>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="PartnerMatching-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.friend.PartnerMatchingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartnerMatchingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="PartnerMatching-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.friend.PartnerMatchingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AlgorithmUtilsTest.testCompareTags" />
+      <item itemvalue="JUnit.InsertUserTest.doConcurrencyInsertUsers" />
+      <item itemvalue="JUnit.InsertUserTest.doInsertUsers" />
+      <item itemvalue="JUnit.RedissonTest.test" />
+      <item itemvalue="JUnit.RedisTest.testInsert" />
+      <item itemvalue="Remote JVM Debug.Unnamed" />
+      <item itemvalue="Spring Boot.PartnerMatchingApplication" />
+      <item itemvalue="Spring Boot.FriendApplication 8081" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlgorithmUtilsTest.testCompareTags" />
+        <item itemvalue="JUnit.RedissonTest.test" />
+        <item itemvalue="JUnit.RedisTest.testInsert" />
+        <item itemvalue="JUnit.InsertUserTest.doConcurrencyInsertUsers" />
+        <item itemvalue="JUnit.InsertUserTest.doInsertUsers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="219fc8cf-1663-48f5-96b6-31b2c57e589a" name="Changes" comment="" />
+      <created>1710173195712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710173195712</updated>
+      <workItem from="1710173196764" duration="3264000" />
+      <workItem from="1710202437981" duration="6187000" />
+      <workItem from="1710291586386" duration="36000" />
+      <workItem from="1710317101576" duration="7158000" />
+      <workItem from="1710337831170" duration="3368000" />
+      <workItem from="1710374364854" duration="7000" />
+      <workItem from="1710421108591" duration="13065000" />
+      <workItem from="1710464504739" duration="331000" />
+      <workItem from="1710493670473" duration="4313000" />
+      <workItem from="1710510697950" duration="5852000" />
+      <workItem from="1710550821996" duration="302000" />
+      <workItem from="1710579808937" duration="4579000" />
+      <workItem from="1710593695501" duration="6213000" />
+      <workItem from="1710641310210" duration="21000" />
+      <workItem from="1710663333702" duration="16354000" />
+      <workItem from="1710730860331" duration="668000" />
+      <workItem from="1710839022923" duration="2869000" />
+      <workItem from="1710859358281" duration="4022000" />
+      <workItem from="1710903939001" duration="11873000" />
+      <workItem from="1710987293638" duration="1204000" />
+      <workItem from="1711026675385" duration="8824000" />
+      <workItem from="1711116893216" duration="2881000" />
+      <workItem from="1711123277098" duration="1721000" />
+      <workItem from="1711163479707" duration="654000" />
+      <workItem from="1711200833516" duration="661000" />
+      <workItem from="1711206180682" duration="1706000" />
+      <workItem from="1711267748791" duration="847000" />
+      <workItem from="1711287582293" duration="4529000" />
+      <workItem from="1711329741067" duration="607000" />
+      <workItem from="1711370972241" duration="8908000" />
+      <workItem from="1711421103399" duration="5000" />
+      <workItem from="1711437326453" duration="6416000" />
+      <workItem from="1711508357651" duration="206000" />
+      <workItem from="1711523996658" duration="9022000" />
+      <workItem from="1711587350253" duration="840000" />
+      <workItem from="1711594076469" duration="2049000" />
+      <workItem from="1711631083653" duration="5188000" />
+      <workItem from="1711674337101" duration="35000" />
+      <workItem from="1711810966487" duration="3695000" />
+      <workItem from="1711854644812" duration="4406000" />
+      <workItem from="1711880317989" duration="5469000" />
+      <workItem from="1711893367517" duration="297000" />
+      <workItem from="1711991133765" duration="339000" />
+      <workItem from="1711991614724" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="teamQuery" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

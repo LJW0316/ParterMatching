@@ -1,0 +1,12 @@
+# 线上配置文件
+spring:
+  # DataSource Config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/friend
+    username: root
+    password: Ljw010316
+server:
+  address: 0.0.0.0
+  port: 8080
+
